@@ -1,0 +1,31 @@
+{
+  "currency": "NGN",
+  "last_updated": "2026-07-01",
+  "note": "Sample local market price table. Replace with real, regularly-updated prices from your target market before real-world use.",
+  "crops": [
+    {
+      "crop": "maize",
+      "unit": "100kg bag",
+      "price_range": [28000, 35000],
+      "season_note": "Prices typically fall right after harvest (Sept-Oct) and rise in the lean season (May-July). Selling in the lean season usually gets a better price if storage is available."
+    },
+    {
+      "crop": "cassava",
+      "unit": "100kg (fresh tubers)",
+      "price_range": [9000, 14000],
+      "season_note": "Cassava does not store well once uprooted; prices are fairly stable year-round, so sell soon after harvest rather than holding."
+    },
+    {
+      "crop": "tomato",
+      "unit": "large basket",
+      "price_range": [15000, 45000],
+      "season_note": "Highly seasonal — prices spike in the dry season (Dec-Mar) when supply is low, and crash in the rainy season glut (Jun-Aug). Perishable, so timing sale around demand spikes matters more than holding."
+    },
+    {
+      "crop": "cowpea",
+      "unit": "100kg bag",
+      "price_range": [60000, 85000],
+      "season_note": "Stores well when dried properly. Prices tend to rise steadily from harvest (Oct) toward the following planting season (Apr-May), so holding in a dry, pest-free store can pay off."
+    }
+  ]
+}
