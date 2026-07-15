@@ -118,7 +118,7 @@ def build_crew(crop: str, location: str, problem_description: str) -> Crew:
     )
 
     # ------------------------------------------------------------------
-    # Tasks (sequential — each builds on the last, like SafeSpend)
+    # Tasks (sequential — each builds on the last)
     # ------------------------------------------------------------------
 
     crop_task = Task(
