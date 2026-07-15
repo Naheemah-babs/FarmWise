@@ -1,7 +1,7 @@
 """
 FarmWise guardrails.
 
-Implements 4 of the Week 9 guardrails, wrapped around the CrewAI crew
+Implements guardrails wrapped around the CrewAI crew
 (the crew is treated as an untrusted reasoning engine):
 
   1. Input validation   -> validate_input()
