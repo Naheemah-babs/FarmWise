@@ -1,7 +1,6 @@
 # FarmWise
 
-A crop and market advisor for smallholder farmers — Project 1 of the
-Agentic AI capstone. Built with CrewAI, wrapped in FastAPI, deployed on
+A crop and market advisor for smallholder farmers. Built with CrewAI, wrapped in FastAPI, deployed on
 Railway.
 
 ## Architecture
